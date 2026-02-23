@@ -112,4 +112,4 @@ Questions? Feedback? Let me know!
 
 ---
 
-**Choose your platform and share HTTPxray-Mini!** 🚀
+**Choose your platform and share HTTPxray-Mini!** 
