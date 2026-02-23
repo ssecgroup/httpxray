@@ -229,7 +229,7 @@ Your support helps maintain and improve this tool for everyone! 🙏
 
 ---
 
-## 📄 License
+##  License
 
 MIT License - see [LICENSE](LICENSE) file for details.
 
